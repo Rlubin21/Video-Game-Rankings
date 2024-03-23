@@ -1,1 +1,5 @@
 # Video-Game-Rankings
+
+In this role, I spearheaded data analysis initiatives within the realm of video games, employing visualization techniques to elucidate key insights. One notable project involved crafting visual representations to convey trends in video game scores. For instance, I developed a bar graph delineating the progression of scores across various sports video games over time. Notably, this graph highlighted 2008 as the pinnacle year, showcasing the highest scores attained within the sports gaming genre.
+
+Additionally, I constructed a comprehensive line chart to illustrate the evolution of strategy and RPG games over consecutive years. This visualization served to elucidate trends and patterns within these gaming categories, aiding stakeholders in making informed decisions based on historical performance metrics. Through meticulous data analysis and visualization, I effectively communicated complex information in a visually engaging manner, facilitating better understanding and decision-making processes.
